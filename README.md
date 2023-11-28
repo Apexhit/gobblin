@@ -14,7 +14,7 @@ Apache Gobblin is a highly scalable data management solution for structured and 
 - Lifecycle Management of data within the lake (e.g. data retention)
 - Compliance Management of data across the ecosystem (e.g. fine-grain data deletions)
 
-### Highlights
+### Highlights 
 - Battle tested at scale: Runs in production at petabyte-scale at companies like LinkedIn, PayPal, Verizon etc.
 - Feature rich: Supports task partitioning, state management for incremental processing, atomic data publishing, data quality checking, job scheduling, fault tolerance etc.
 - Supports stream and batch execution modes 
